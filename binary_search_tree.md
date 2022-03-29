@@ -1,6 +1,6 @@
-#Ödev 3
+# Ödev 3
 
-# Binary Search Tree 
+## Binary Search Tree 
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary Search Tree aşamalarını yazınız.
 Root = 6
