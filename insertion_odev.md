@@ -12,7 +12,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 ```
 Big-O gösterimini yazınız.
 ```
-Big-O gösterimi: O(n^2)
+O(n^2)
 ```
 ***Time Complexity:***
 
